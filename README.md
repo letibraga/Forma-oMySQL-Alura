@@ -1,6 +1,6 @@
 # Formação MySQL
 
-Bem-vindo ao Repositório do Curso Formação MySQL!
+Bem-vindo ao Repositório do Curso Formação MySQL !
 
 Este repositório contém todo o material que utilizei durante o curso oferecido pela Alura. 
 
